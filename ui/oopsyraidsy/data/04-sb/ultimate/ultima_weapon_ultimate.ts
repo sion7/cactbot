@@ -10,6 +10,7 @@ export type Data = OopsyData;
 const triggerSet: OopsyTriggerSet<Data> = {
   zoneId: ZoneId.TheWeaponsRefrainUltimate,
   damageWarn: {
+    'UWU Spiny Plume Gigastorm': '2B46', // spiny plume explosion that makes a bubble
     'UWU Eye of the Storm': '2B52', // donut on the final
     'UWU Searing Wind': '2B5C', // healer explosions
     'UWU Eruption': '2B5A', // red baited ifrit circles

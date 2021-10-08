@@ -444,6 +444,18 @@ const triggerSet: TriggerSet<Data> = {
       run: (data) => delete data.titanGaols,
     },
     {
+      id: 'UWU Ultima Homing Lasers',
+      type: 'StartsUsing',
+      netRegex: NetRegexes.startsUsing({ source: 'The Ultima Weapon', id: '2B7B' }),
+      netRegexDe: NetRegexes.startsUsing({ source: 'Ultima-Waffe', id: '2B7B' }),
+      netRegexFr: NetRegexes.startsUsing({ source: 'Ultima Arma', id: '2B7B' }),
+      netRegexJa: NetRegexes.startsUsing({ source: 'アルテマウェポン', id: '2B7B' }),
+      netRegexCn: NetRegexes.startsUsing({ source: '究极神兵', id: '2B7B' }),
+      netRegexKo: NetRegexes.startsUsing({ source: '알테마 웨폰', id: '2B7B' }),
+      // TODO: yell louder if not a tank?
+      response: Responses.tankBuster(),
+    },
+    {
       id: 'UWU Suppression Gaol',
       type: 'Ability',
       netRegex: NetRegexes.ability({ id: '2B6B', source: 'Titan' }),
