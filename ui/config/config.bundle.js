@@ -13082,8 +13082,8 @@ const generateBuffTriggerIds = () => {
   buffs.sort((a, b) => a.id.localeCompare(b.id));
   return buffs.map(buff => `Buff ${buff.id}`);
 };
-// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 146 modules
-var oopsy_manifest = __webpack_require__(9156);
+// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 147 modules
+var oopsy_manifest = __webpack_require__(4326);
 ;// CONCATENATED MODULE: ./ui/oopsyraidsy/oopsyraidsy_config.ts
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
