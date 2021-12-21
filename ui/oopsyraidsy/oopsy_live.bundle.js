@@ -14710,8 +14710,8 @@ class DamageTracker {
   }
 
 }
-// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 150 modules
-var oopsy_manifest = __webpack_require__(4372);
+// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 151 modules
+var oopsy_manifest = __webpack_require__(4075);
 ;// CONCATENATED MODULE: ./ui/oopsyraidsy/mistake_collector.ts
 function mistake_collector_defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
