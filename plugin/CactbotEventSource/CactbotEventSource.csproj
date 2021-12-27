@@ -52,28 +52,28 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Advanced Combat Tracker">
-      <HintPath>..\ThirdParty\ACT\Advanced Combat Tracker.exe</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\Advanced Combat Tracker.exe</HintPath>
     </Reference>
     <Reference Include="FFXIV_ACT_Plugin.Common">
-      <HintPath>..\ThirdParty\FFXIV_ACT\SDK\FFXIV_ACT_Plugin.Common.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\FFXIV_ACT_Plugin\SDK\FFXIV_ACT_Plugin.Common.dll</HintPath>
     </Reference>
     <Reference Include="HtmlRenderer, Version=0.11.4.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\OverlayPlugin\libs\HtmlRenderer.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\OverlayPlugin\libs\HtmlRenderer.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\ThirdParty\OverlayPlugin\libs\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="OverlayPlugin.Common">
-      <HintPath>..\ThirdParty\OverlayPlugin\libs\OverlayPlugin.Common.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\OverlayPlugin\libs\OverlayPlugin.Common.dll</HintPath>
     </Reference>
     <Reference Include="OverlayPlugin.Core, Version=0.11.4.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\OverlayPlugin\libs\OverlayPlugin.Core.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\OverlayPlugin\libs\OverlayPlugin.Core.dll</HintPath>
     </Reference>
     <Reference Include="OverlayPlugin.Updater, Version=0.12.2.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\OverlayPlugin\libs\OverlayPlugin.Updater.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\OverlayPlugin\libs\OverlayPlugin.Updater.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

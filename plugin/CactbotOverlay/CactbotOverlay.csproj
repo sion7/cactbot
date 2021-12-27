@@ -52,15 +52,15 @@
   <ItemGroup>
     <Reference Include="Advanced Combat Tracker, Version=3.4.5.266, Culture=neutral, PublicKeyToken=a946b61e93d97868, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\ACT\Advanced Combat Tracker.exe</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\Advanced Combat Tracker.exe</HintPath>
     </Reference>
     <Reference Include="OverlayPlugin.Common, Version=0.12.2.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\OverlayPlugin\libs\OverlayPlugin.Common.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\OverlayPlugin\libs\OverlayPlugin.Common.dll</HintPath>
     </Reference>
     <Reference Include="OverlayPlugin.Core, Version=0.11.4.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ThirdParty\OverlayPlugin\libs\OverlayPlugin.Core.dll</HintPath>
+      <HintPath>C:\Users\sion\Desktop\ff14\Actor_v2.0.4.2\ACT\plugin\OverlayPlugin\libs\OverlayPlugin.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
